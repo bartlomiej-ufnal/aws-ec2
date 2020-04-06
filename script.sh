@@ -1,10 +1,5 @@
 #!/bin/bash
 
-#Requirements
-#download your  key.pem used when when you launched ec2 Instances -> chmod 400 your-key.pem
-#install aws cli https://docs.aws.amazon.com/cli/latest/userguide/install-linux.html
-# Run scrpit with: bash script.sh
-
 #default ec2 user set up   
 ssh_user="ec2-user"
 
